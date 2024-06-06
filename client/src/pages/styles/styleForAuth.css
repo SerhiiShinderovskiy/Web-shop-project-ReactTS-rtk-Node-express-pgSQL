@@ -1,0 +1,7 @@
+.contein {
+    height: calc(100vh - 54px);
+}
+
+.card {
+    width: auto;
+}
